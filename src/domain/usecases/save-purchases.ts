@@ -8,5 +8,4 @@ namespace SavePurchases {
     date: Date,
     value: number
   }
-  
 }
